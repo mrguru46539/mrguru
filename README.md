@@ -11,7 +11,7 @@
 🚀 **IT Infrastructure & Cybersecurity Professional → Data Science Practitioner**  
 📍 Ghaziabad, Uttar Pradesh, India  
 
-📧 **Email:** saurabhkumaryadav899@gmail.com  
+📧 **Email:** mrguru46539@duck.com  
 🔗 **LinkedIn:** https://linkedin.com/in/mrguru46539  
 
 ---
