@@ -96,11 +96,11 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=mrguru46539&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrguru46539&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
 </p>
@@ -111,7 +111,7 @@ I work at the intersection of **infrastructure, cybersecurity, and data analytic
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mrguru46539&theme=tokyonight&hide_border=true"
     width="70%"
   />
 </p>
